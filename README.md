@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Sebastian Drewes
 
-<!--
-**SebasDrewes/SebasDrewes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A passionate Frontend Developer from Argentina
+- 🌱 I’m currently learning **React Js**
+- 💬 Ask me about my lastest project: https://sebasdrewes.github.io/battleship/
+- 📫 How to reach me: https://www.linkedin.com/in/sebasdrewes/
 
-Here are some ideas to get you started:
+<a href="https://github.com/SebasDrewes/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebasDrewes" />
+</a>
+<a href="https://github.com/SebasDrewes/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDrewes" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
