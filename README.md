@@ -2,7 +2,7 @@
 
 #### A passionate Frontend Developer from Argentina
 - 🌱 I’m currently learning **React Js**
-- 💬 Ask me about my lastest project: https://sebasdrewes.github.io/battleship/
+- 💬 Ask me about my latest project: https://sebasdrewes.github.io/battleship/
 - 📫 How to reach me: https://www.linkedin.com/in/sebasdrewes/
 
 <a href="https://github.com/SebasDrewes/github-readme-stats">
