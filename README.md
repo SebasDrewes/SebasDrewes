@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sebastian Drewes
 
 #### A passionate Frontend Developer from Argentina
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Node Js**
 - 💬 Ask me about my latest project: https://sebasdrewes.github.io/challenge-react
 - 📫 How to reach me: https://www.linkedin.com/in/sebasdrewes/
 
